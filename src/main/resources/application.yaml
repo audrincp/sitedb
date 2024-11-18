@@ -3,9 +3,9 @@ server:
 
 spring:
     datasource:
-        url: jdbc:postgresql://localhost:5433/dbzinho
-        username: postgres
-        password: root
+        url: jdbc:postgresql://dpg-cstjtr1u0jms73aq5qag-a.oregon-postgres.render.com:5433/banco_lke4
+        username: banco_lke4_user
+        password: i88UYgUSa9upH5jpWNcfF2y3ZBSQ3nCu
         driver-class-name: org.postgresql.Driver
 
     jpa: 
